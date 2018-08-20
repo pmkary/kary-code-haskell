@@ -1,0 +1,25 @@
+-- Haskell Playground 1.0
+
+
+
+
+primesToAlhpabetTuple
+
+
+mapPrimeToAlphabet 2
+
+
+
+
+
+
+
+
+
+decodeWord "309442"
+
+
+
+
+
+decodeSentence "309442-7054453"

@@ -1,0 +1,9 @@
+-- Haskell Playground 1.0
+
+message = "hello world"
+
+code = encodeSentence message
+
+code
+
+decodeSentence code
