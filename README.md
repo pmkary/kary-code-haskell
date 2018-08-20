@@ -7,4 +7,4 @@ This implementation is done in Haskell as [Haskell for Mac](http://haskellformac
 
 Also keep in mind that I only wrote it to learn Haskell and this is by no way any useful code. However, I find it a very beautiful code, since it includes a very clean code that leverages many of Haskell's tricks.
 
-![](screen shot 1397-05-30 at 2 49 11 am" src="https://user-images.githubusercontent.com/2157285/44369779-d5bd7300-a4ec-11e8-9124-997def75081f.png)
+![](https://user-images.githubusercontent.com/2157285/44369779-d5bd7300-a4ec-11e8-9124-997def75081f.png)
